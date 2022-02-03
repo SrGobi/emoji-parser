@@ -1,0 +1,12 @@
+# Node
+node_modules/
+
+# Lockfile
+yarn.lock
+package-lock.json
+
+# Tests
+test/
+
+# Compiled files
+build/

@@ -1,6 +1,6 @@
 {
   "name": "@canvacard/emoji-parser",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Analizador de emojis para canvacard.",
   "main": "build/index.js",
   "types": "build/index.d.ts",
@@ -24,11 +24,11 @@
   },
   "homepage": "https://github.com/SrGobi/emoji-parser#readme",
   "devDependencies": {
-    "@types/node": "^14.14.20",
-    "@types/twemoji-parser": "^12.1.0",
-    "canvas": "^2.6.1"
+    "@types/node": "^18.15.11",
+    "@types/twemoji-parser": "^13.1.1",
+    "canvas": "^2.11.2"
   },
   "dependencies": {
-    "twemoji-parser": "^13.0.0"
+    "twemoji-parser": "^14.0.0"
   }
 }
